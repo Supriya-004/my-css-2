@@ -5,5 +5,7 @@
     color: white;
     background-color: purple;
     padding: 40px;
-    
+    border:solid ;
+    border-color: rgb(175, 193, 209);
+   
 }
