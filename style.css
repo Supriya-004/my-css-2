@@ -1,0 +1,12 @@
+.box{
+    height: 150px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    background-color: purple;
+    padding: 40px;
+    border:solid ;
+    border-color: rgb(175, 193, 209);
+    border-radius: 10px;
+    margin: 10px;
+}
